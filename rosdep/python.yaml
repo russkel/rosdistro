@@ -2716,6 +2716,10 @@ python-nose:
     xenial_python3: [python3-nose]
     yakkety: [python-nose]
     zesty: [python-nose]
+python-npyscreen-pip:
+  ubuntu:
+    pip:
+      packages: [npyscreen]
 python-ntplib:
   debian: [python-ntplib]
   fedora: [python-ntplib]
